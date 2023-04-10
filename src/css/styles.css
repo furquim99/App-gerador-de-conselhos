@@ -54,6 +54,13 @@ body{
 
     
 }
+.carregando{
+    word-break: break-all;
+    font-size: 23px;
+    padding: 23px;
+    text-align: center;
+    color: var(--text-color);
+}
 
 /* .linha {
     /* min-width: 100%; */
